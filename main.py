@@ -11,4 +11,6 @@ print(f"zwróc nam wynik odejmowania  {odejmowanie(3,5)}")
 
 print("co u ciebie ")
 
+print("co u ciebie ")
 
+print(" cos nowego co u ciebie")
